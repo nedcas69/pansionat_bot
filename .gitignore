@@ -1,6 +1,6 @@
 .idea
 .env
-bot
+bot.sql
 pansionat_bot.rar
 test.py
 tuyxona_bot.service
